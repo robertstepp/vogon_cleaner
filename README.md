@@ -118,10 +118,6 @@ When DebugPreference is set to Continue, a transcript log is saved to the script
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss proposed changes before submitting a pull request.
-
 ## Disclaimer
 
 Always use the WhatIf parameter first to preview which files will be deleted. The authors are not responsible for any unintended data loss. Unlike the Vogons, we do give you a chance to review the demolition plans before execution.
